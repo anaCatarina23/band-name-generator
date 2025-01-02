@@ -8,7 +8,7 @@ The name of the city where the user grew up.
 The name of a pet.
 With these inputs, the program generates a unique and fun band name!
 
-💻 Example Execution
+💻 Example Execution:
 Welcome to the Band Name Generator!
 Which city did you grow up in?  
 > New York  
