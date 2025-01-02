@@ -1,14 +1,14 @@
-Band Name Generator 🎸✨  
+# **Band Name Generator** 🎸✨  
 A simple Python project to generate creative band names based on user input.  
 
-📝 Description  
+## 📝 Description  
 The Band Name Generator combines:  
+- The name of the city where the user grew up.  
+- The name of a pet.  
 
-The name of the city where the user grew up.    
-The name of a pet.  
 With these inputs, the program generates a unique and fun band name!  
 
-💻 Example Execution  
+## 💻 Example Execution  
 Welcome to the Band Name Generator!  
 Which city did you grow up in?  
 > New York  
@@ -16,12 +16,12 @@ What's your pet's name?
 > Bella  
 Your band name could be 'New York Bella'!  
 
-🚀 How to Use  
+## 🚀 How to Use    
 Make sure you have Python 3 installed on your computer.  
 1.Clone the repository  
 2.Run the script  
 
-🛠️ Technical Features  
+## 🛠️ Technical Features  
 Language: Python 3  
 Features:  
   1.Input validation to avoid empty values.  
